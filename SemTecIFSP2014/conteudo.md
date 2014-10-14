@@ -32,6 +32,7 @@ Richard Mattew Stallman (RMS)
 
 * Antigamente, tudo livre
 * Problema com impressora
+* Vontade de pode ajudar seu amigo, sua comunidade, seu vizinho
 * Projeto GNU
 * As 4 liberdades 
 
@@ -40,6 +41,14 @@ Richard Mattew Stallman (RMS)
 1.  Liberdade 1: A liberdade de estudar o software;
 2.  Liberdade 2: A liberdade de redistribuir cópias do programa de modo que você possa ajudar ao seu próximo;
 3. Liberdade 3: A liberdade de modificar o programa e distribuir estas modificações, de modo que toda a comunidade se beneficie.
+
+* Software Livre não é Software Gratuito
+
+* Imagem: http://rlv.zcache.com/think_free_as_in_free_speech_not_free_beer_tshirt-rd16acfb6ac1e4522933ddc204bed414f_va6lr_512.jpg
+
+* Exemplo 1: Skype - gratuito mas não livre (sem acesso ao código fonte)
+
+* Exemplo 2: Red Hat Enterprise Linux Server - Licença de 1 ano US$799,00 (retirado de https://www.redhat.com/apps/store/server/ ) 
 
 * Copyleft e as Licenças
 * Free Software Foundation 
@@ -80,6 +89,11 @@ Edward Snowden
 * PRISM
 * Espionagem  em Software Proprietário
 
+* Caso da conversa de facebook monitorada na ocupação da assembléia no Rio
+* Facebook vende serviço para compartilhar conversas que citam empresas
+* Termo de uso do Facebook Messenger para celular
+
+* É possível privacidade e real segurança sem poder auditar o código?
 
 Aaron Schwartz
 --------------------
@@ -100,7 +114,7 @@ Como?
 
 3. Divulgue
 
-4. Colabore
+4. Colabore (com tempo ou dinheiro)
 
 **Como colaborar?**
 
@@ -127,5 +141,5 @@ Como?
 
 **Links de referência**
 
-http://www.fsf.org/
-https://www.stallman.org/
+* http://www.fsf.org/
+* https://www.stallman.org/
