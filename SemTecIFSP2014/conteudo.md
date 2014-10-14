@@ -1,4 +1,4 @@
-Quem são meus heróis ou Uma conversa sobre software livre e espionagem
+Quem são meus heróis ou Uma conversa sobre software livre e espionagem (por Gabriel Fedel)
 ===========================================================
 
 Falar de heróis as vezes pode ser ruim, pois criamos a imagem de alguém que é superior, com capacidades super-humanas
