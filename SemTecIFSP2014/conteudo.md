@@ -71,5 +71,6 @@ Como?
 * Documentário Revolution OS
 * Artigo The Cathedral and the Bazaar
 * Documentário TPB AFK
+* Livro Cypherpunks
 
 
