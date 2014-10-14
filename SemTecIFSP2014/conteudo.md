@@ -52,17 +52,29 @@ Richard Mattew Stallman (RMS)
 
 * Copyleft e as Licenças
 * Free Software Foundation 
-* Os problemas do software proprietário
-* Visitem o site do RMS depois: https://www.stallman.org/
+
+**E... eu já uso software livre?**
+
+Provavelmente sim!
+
+* Firefox
+* VLC
+* GNU/Linux (daqui a pouco)
+* ... e muitos outros que as vezes você não vê (como os servidores web)
+
+**Um causo sobre software livre (experiência com Omeka/Neatline)**
 
 **Movimentos "derivados"**
 
 Creative Commons
 Recursos Educacionais Abertos (REA)
 
+* Os problemas do software proprietário
+* Visitem o site do RMS depois: https://www.stallman.org/
+
 
 Linus Torvalds
-------------------
+--------------------
 * Foto: http://www.techweekeurope.co.uk/wp-content/uploads/2012/06/linustorvaldslarge.jpg
 
 
@@ -131,6 +143,10 @@ Como?
 * Ônibus Hacker
 * Red Matrix
 * Diáspora
+* Laboratórios Hackers (LHC - Campinas, Garoa - São Paulo, LabHacker - São Paulo, LabHacker na Câmara dos Deputados - Brasília)
+* Debian
+* Firefox / Mozilla Foundation
+* Qualquer software livre que você use e goste ;)
 
 **Conheça mais**
 
@@ -143,3 +159,16 @@ Como?
 
 * http://www.fsf.org/
 * https://www.stallman.org/
+
+**Um pouco mais sobre mim**
+
+* Mestre em Computação (Unicamp)
+* Professor FATEC Americana
+* Produtor Cultural (Jatobá Cultural)
+* Coletivo Revoada (revoada.net.br)
+* Jovem Hacker (jovemhacker.org)
+* Mapa da Cultura de Campinas (cultcampinas.org)
+* Ônibus Hacker
+* Não gosto de coentro :(
+* fedel(arroba)fedel(ponto)net(ponto)br
+* https://red.vilarejo.pro.br/channel/fedel
