@@ -7,4 +7,6 @@ O tema da palestra será Software Livre e Espionagem Digital, minha idéia é pe
 
 Ao fim a ideia é estimular os participantes a se envolverem nessas causas, portanto mostrarei alguns projetos interessantes e como podem se juntar à eles.
 
-Colaboções são mais do quê bem vindas ;)
+O arquivo conteudo.md, é um rascunho do quê usarei na palestra, a ideia é fazer a apresentação usando Inkscape + Sozi, mas antes quero levantar um pouco da estrutura.
+
+Colaborações são mais do quê bem vindas ;)
