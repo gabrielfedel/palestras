@@ -30,10 +30,13 @@ Richard Mattew Stallman (RMS)
 
 **Software Livre**
 
+* (talvez colocar falando sobre o quê é software)
 * Antigamente, tudo livre
 * Problema com impressora
 * Vontade de pode ajudar seu amigo, sua comunidade, seu vizinho
 * Projeto GNU
+* GNU - Gnu is Not Unix
+* Imagem do GNU
 * As 4 liberdades 
 
 
@@ -53,6 +56,11 @@ Richard Mattew Stallman (RMS)
 * Copyleft e as Licenças
 * Free Software Foundation 
 
+**Mas esse software livre parece coisa de comunista!**
+
+* Imagem comunista
+* Notícia microsoft libera código fonte do compilador C# (microsof-topen.png)
+
 **E... eu já uso software livre?**
 
 Provavelmente sim!
@@ -62,15 +70,30 @@ Provavelmente sim!
 * GNU/Linux (daqui a pouco)
 * ... e muitos outros que as vezes você não vê (como os servidores web)
 
+**Vantagens do Software Livre, ou porquê eu deveria me preocupar com isso?**
+
+* Liberdade
+* Possibilidade de estudar o código
+* Você pode ajudar o seu vizinho!
+* Quebra de monopólio
+* Equipe de desenvolvimento ampliada (no caso de empresas)
+* Saber o quê o programa faz de verdade
+* Velocidade em correções (caso do open-ssh e do bash)
+
+**Problemas com o software proprietário, ou, quem é o proprietário?** 
+
+* Imagem Vida de Programador
+* E se a empresa falir?
+* E se esse software me espionar ?
+
 **Um causo sobre software livre (experiência com Omeka/Neatline)**
+
 
 **Movimentos "derivados"**
 
-Creative Commons
-Recursos Educacionais Abertos (REA)
-
-* Os problemas do software proprietário
-* Visitem o site do RMS depois: https://www.stallman.org/
+* Creative Commons
+* Recursos Educacionais Abertos (REA)
+* Hardware Aberto (arduíno, impressora 3d, raspberry pi)
 
 
 Linus Torvalds
@@ -78,15 +101,35 @@ Linus Torvalds
 * Foto: http://www.techweekeurope.co.uk/wp-content/uploads/2012/06/linustorvaldslarge.jpg
 
 
-* Queria ter um sistema operacional na sua casa, e resolveu fazer um
-* Linux (já voltamos)
+* Queria ter um sistema operacional na sua casa
+* Resolveu fazer um
+* GNU/Linux
 
-**O Linux**
+**O GNU/Linux**
 
-* O Linux hoje
+* Kernel de um sistema operacional
+* Imagem kernel.png
+* Teve a primeira versão já disponibilizada aberta (licenciado pela GPL)
+* Utilizou ferramentas GNU no seu desenvolvimento
+* Preencheu a lacuna do projeto GNU
+* Hoje desenvolvido por uma grande comunidade de programadores voluntários e empresas
+* Quem faz o linux (versão 2.6.30: 1.150 desenvolvedores e 240 empresas)
 
 
-* Git
+**Mas, quem usa o Linux?**
+
+* Imagem amazon.gif
+* Imagem google.gif
+* Imagem shrek.jpg
+* Imagem yoda.jpg
+* Vejam mais: www.comparebusinessproducts.com/fyi/50-places-linux-running-you-might-not-expect
+* Imagem android
+* Imagem nasa
+* Imagem notíciasnasa
+
+**Mas...tem gente mais "normal" que usa o linux?**
+
+
 
 
 Julian Assange
@@ -159,6 +202,7 @@ Como?
 
 * http://www.fsf.org/
 * https://www.stallman.org/
+* http://www.linuxfoundation.org/sites/main/files/publications/whowriteslinux.pdf
 
 **Um pouco mais sobre mim**
 
