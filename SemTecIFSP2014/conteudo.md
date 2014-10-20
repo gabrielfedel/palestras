@@ -5,7 +5,7 @@ Falar de heróis as vezes pode ser ruim, pois criamos a imagem de alguém que é
 
 Porém, como verão para essa apresentação, esses heróis, valem a pena serem citados
 
-Vou falar pra vocês de 6 dos meus heróis
+Vou falar pra vocês de 5 dos meus heróis
 
 **Liga da Justiça ?**
 
@@ -129,20 +129,64 @@ Linus Torvalds
 
 **Mas...tem gente mais "normal" que usa o linux?**
 
+* Meus pais
+* Meu irmão
+* Namorada
+* Mãe da Namorada
+* ...
+* Você!
 
 
 
 Julian Assange
 -------------------
 
-* Wikileaks
-* Privacidade para os pequenos, Transparência para os grandes
+* Australiano, Jornalista e Ciberativista
+* Fundador do "Wikileaks"
+* Premiado várias vezes, inclusive pelo Le Monde em 2008 como homem do ano
+* Privacidade para os pequenos, transparência para os grandes
+
+**Wikileaks**
+
+* Wikileaks.org
+* Site que permite postagem anônima de documentos e informações "vazadas" de empresas e governos
+
+**Caso cablegate**
+
+* Milhares de telegramas secretos enviados pelas embaixadas americanas analisando os líderes e situação de cada país
+
+* Chelsea E. Manning , supostamente vazou no wikileaks vídeo de um ataque americana à civis no Iraque
+
+* Devido à uma conversa em uma sala de bate-papo Manning foi preso e encontra-se sob tortura
+
+**Situação atual de Assange**
+
+* Acusado de estupro e abuso sexual de menores
+* Seria deportado do Reino Unido para a Suécia, e posteriormente para Estados Unidos
+* No Estados Unidos seria condenado pelo menos à prisão perpétua 
+* Desde 19/7/2012 (mais de 2 anos) preso na embaixada do Equador em Londres
+
 
 Edward Snowden
 -----------------------
 
+* Administrador de Sistemas
+* Trabalhou para CIA, DIA (Defense Intelligence Agency) e NSA (National Security Agency)
+* Ficou internacionalmente conhecido em Junho de 2013
+* Liberou vários documentos de programas de vigilância globais
+
+**Vigilância Global**
+
+
 * PRISM
+* Imagem PRISM
+* Imagem PRISM/Google
+
 * Espionagem  em Software Proprietário
+
+* Linus Torvalds consultado sobre inserir "cavalo de tróia" no Linux
+
+* Casos de "defasagem" de hardware e algoritmos de criptografia
 
 * Caso da conversa de facebook monitorada na ocupação da assembléia no Rio
 * Facebook vende serviço para compartilhar conversas que citam empresas
@@ -150,14 +194,8 @@ Edward Snowden
 
 * É possível privacidade e real segurança sem poder auditar o código?
 
-Aaron Schwartz
---------------------
-
-* Ativismo na Internet
-* Compartilhametno de Informações
-
 Você
-------
+-------
 
 Você também pode ser um herói
 
@@ -196,7 +234,7 @@ Como?
 * Documentário Revolution OS
 * Artigo The Cathedral and the Bazaar
 * Documentário TPB AFK
-* Livro Cypherpunks
+* Livro Cypherpunks (Julian Assange)
 
 **Links de referência**
 
@@ -209,6 +247,7 @@ Como?
 * Mestre em Computação (Unicamp)
 * Professor FATEC Americana
 * Produtor Cultural (Jatobá Cultural)
+* Desenvolvedor Web
 * Coletivo Revoada (revoada.net.br)
 * Jovem Hacker (jovemhacker.org)
 * Mapa da Cultura de Campinas (cultcampinas.org)
