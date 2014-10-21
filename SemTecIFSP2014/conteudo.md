@@ -88,6 +88,7 @@ Provavelmente sim!
 * Imagem Vida de Programador
 * E se a empresa falir?
 * E se esse software me espionar ?
+* Imposição de padrões
 
 **Um causo sobre software livre (experiência com Omeka/Neatline)**
 
