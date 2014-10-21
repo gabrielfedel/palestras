@@ -1,11 +1,13 @@
 Quem são meus heróis ou Uma conversa sobre software livre e espionagem (por Gabriel Fedel)
 ===========================================================
 
-Falar de heróis as vezes pode ser ruim, pois criamos a imagem de alguém que é superior, com capacidades super-humanas
+* Falar de heróis as vezes pode ser ruim, pois criamos a imagem de alguém que é superior, com capacidades super-humanas
 
-Porém, como verão para essa apresentação, esses heróis, valem a pena serem citados
+* Porém, como verão para essa apresentação, esses heróis, valem a pena serem citados
 
-Vou falar pra vocês de 5 dos meus heróis
+* E eles servirão como base para falar de assuntos importantes
+
+* Vou falar pra vocês de 5 dos meus heróis
 
 **Liga da Justiça ?**
 
@@ -67,6 +69,7 @@ Provavelmente sim!
 
 * Firefox
 * VLC
+* Wordpress
 * GNU/Linux (daqui a pouco)
 * ... e muitos outros que as vezes você não vê (como os servidores web)
 
@@ -94,7 +97,7 @@ Provavelmente sim!
 * Creative Commons
 * Recursos Educacionais Abertos (REA)
 * Hardware Aberto (arduíno, impressora 3d, raspberry pi)
-
+* Imagens arduino, raspberry, reprap
 
 Linus Torvalds
 --------------------
@@ -141,6 +144,7 @@ Linus Torvalds
 Julian Assange
 -------------------
 
+* http://www.zoom95.com/wp-content/uploads/2012/08/julian-assange.jpg
 * Australiano, Jornalista e Ciberativista
 * Fundador do "Wikileaks"
 * Premiado várias vezes, inclusive pelo Le Monde em 2008 como homem do ano
@@ -170,50 +174,110 @@ Julian Assange
 Edward Snowden
 -----------------------
 
+* http://indagadores.files.wordpress.com/2013/08/edward-joseph-snowden-mn2.jpg
 * Administrador de Sistemas
 * Trabalhou para CIA, DIA (Defense Intelligence Agency) e NSA (National Security Agency)
 * Ficou internacionalmente conhecido em Junho de 2013
-* Liberou vários documentos de programas de vigilância globais
+* Liberou vários documentos de programas de vigilância globais realizado pelo governo dos EUA
 
 **Vigilância Global**
 
 
-* PRISM
+* PRISM (e outros)
+* Um enorme programa de vigilância da Internet, com intuito de localizar terroristas
 * Imagem PRISM
 * Imagem PRISM/Google
+* Espionagem em vários níves
+1. Cabos submarinos
+2. Softwares (proprietários)
+3. Grandes provedores de serviço (Google, Facebook, Yahoo)
+* Mas então essas empresas são "más"?
+* Caso do twitter
+* Lei americana -> problema de concentrar informações em um único local privado
 
-* Espionagem  em Software Proprietário
+**Ou seja, basicamente tudo que você escreveu, enviou, acessou, e fez no seu computador ou em sites da internet o governo dos EUA sabem...**
 
-* Linus Torvalds consultado sobre inserir "cavalo de tróia" no Linux
+**Mas, quem não deve não teme, não é?**
 
-* Casos de "defasagem" de hardware e algoritmos de criptografia
+**Ou melhor, se eu não fiz nada de errado não tem problema né?**
+
+**O ponto é, o que é errado e que é certo, mudam de contexto**
+
+**Além disso, será que algum governo ou empresa tem direito de ter tanto poder em mãos?**
+
+* Antes do próprio PRISM já era sabido que muitas empresas da internet monitoravam informações dos seus usuários para fazer propaganda
+
+* Imagem marketeiros.jpg
+
+
+**Notícias relativas ao PRISM**
+
+
+* Linus Torvalds consultado sobre inserir "cavalo de tróia" no Linux http://www.dystopiaearth.com/?p=2775
+
+* Equipamentos da CISCO são "mexidos" para ficarem com backdoors que permitem acessar o que passa por eles http://techcrunch.com/2014/05/18/the-nsa-cisco-and-the-issue-of-interdiction/ 
+
+* Microsoft ofereceu acesso à dados de sua cloud para NSA http://www.itproportal.com/2014/05/14/microsoft-openly-offered-cloud-data-fbi-and-nsa/
+
+* Basicamente é possível controlar todo o dispositivo (Iphone) remotamente sem o usuário perceber (mesmo o aparelho parecendo que está desligando) http://www.eweek.com/security/nsa-spying-on-apple-iphones.html 
+
+* Função de criptografia de processadores Intel não são confiáveis - http://www.zdnet.com/intel-via-hardware-crypto-not-to-be-trusted-7000024246/
+
+* Softwares liberados com falha, e correção não pode ser aplicada até NSA permitir
+
+* Imagem Apple
+
+* Petrobrás também foi alvo de espionagem - http://elpais.com/elpais/2013/09/11/inenglish/1378912786_674537.html
 
 * Caso da conversa de facebook monitorada na ocupação da assembléia no Rio
-* Facebook vende serviço para compartilhar conversas que citam empresas
-* Termo de uso do Facebook Messenger para celular
 
-* É possível privacidade e real segurança sem poder auditar o código?
+* Facebook vende serviço para compartilhar conversas que citam empresas
+
+* Termo de uso do Facebook Messenger para celular - http://guardianlv.com/2014/08/facebook-messenger-terms-and-conditions-violating-privacy/
+
+
+**É possível privacidade e real segurança sem poder auditar o código?**
+
+
+**Situação atual de Snowden**
+
+* Ficou 39 dias preso no aeroporto da Rússia (pois seu passaporte havia sido cancelado)
+* Conseguiu axilo na Rússia (de 1 ano, e ao expirar por mais 3)
+* Se voltar aos Estados Unidos será preso ao pisar no país
+
+**Qual meu último herói?**
 
 Você
 -------
 
-Você também pode ser um herói
+* http://bellophotograph.com/wp-content/uploads/2012/05/14/the-importance-of-you/you1.jpg
 
-Como?
+* Você também pode ser um herói da liberdade e da privacidade ;)
+
+* Como?
 
 1. Use Software Livre
 
 2. Use Criptografia
 
-3. Divulgue
+3. Use ferramentas que respeitam sua privacidade
 
-4. Colabore (com tempo ou dinheiro)
+* Duckduckgo
+
+4. Descentralize/Distribua
+
+* Imagem redes.jpg
+
+5. Divulgue
+
+6. Colabore (com tempo ou dinheiro)
 
 **Como colaborar?**
 
 * Escrevendo manuais
 * Traduzindo materiais
 * Auxiliando usuários
+* Gerando material gráfico
 * Programando
 
 
@@ -241,6 +305,7 @@ Como?
 * http://www.fsf.org/
 * https://www.stallman.org/
 * http://www.linuxfoundation.org/sites/main/files/publications/whowriteslinux.pdf
+* http://www.wired.com/2014/08/edward-snowden/
 
 **Um pouco mais sobre mim**
 
