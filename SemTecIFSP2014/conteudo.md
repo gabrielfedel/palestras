@@ -89,6 +89,7 @@ Provavelmente sim!
 * E se a empresa falir?
 * E se esse software me espionar ?
 * Imposição de padrões
+* ...
 
 **Um causo sobre software livre (experiência com Omeka/Neatline)**
 
@@ -186,15 +187,15 @@ Edward Snowden
 
 * PRISM (e outros)
 * Um enorme programa de vigilância da Internet, com intuito de localizar terroristas
-* Imagem PRISM
-* Imagem PRISM/Google
 * Espionagem em vários níves
 1. Cabos submarinos
 2. Softwares (proprietários)
 3. Grandes provedores de serviço (Google, Facebook, Yahoo)
+* Imagem PRISM
+* Imagem PRISM/Google
 * Mas então essas empresas são "más"?
+* Legislação americana -> problema de concentrar informações em um único local privado
 * Caso do twitter
-* Lei americana -> problema de concentrar informações em um único local privado
 
 **Ou seja, basicamente tudo que você escreveu, enviou, acessou, e fez no seu computador ou em sites da internet o governo dos EUA sabem...**
 
@@ -202,19 +203,17 @@ Edward Snowden
 
 **Ou melhor, se eu não fiz nada de errado não tem problema né?**
 
-**O ponto é, o que é errado e que é certo, mudam de contexto**
+**O ponto é: o que é errado e que é certo não é algo fixo**
 
 **Além disso, será que algum governo ou empresa tem direito de ter tanto poder em mãos?**
 
-* Antes do próprio PRISM já era sabido que muitas empresas da internet monitoravam informações dos seus usuários para fazer propaganda
+* Antes do próprio PRISM já era sabido que muitas empresas da internet monitoravam informações dos seus usuários para vender propaganda direcionada
 
 * Imagem marketeiros.jpg
 
 
 **Notícias relativas ao PRISM**
 
-
-* Linus Torvalds consultado sobre inserir "cavalo de tróia" no Linux http://www.dystopiaearth.com/?p=2775
 
 * Equipamentos da CISCO são "mexidos" para ficarem com backdoors que permitem acessar o que passa por eles http://techcrunch.com/2014/05/18/the-nsa-cisco-and-the-issue-of-interdiction/ 
 
@@ -224,11 +223,12 @@ Edward Snowden
 
 * Função de criptografia de processadores Intel não são confiáveis - http://www.zdnet.com/intel-via-hardware-crypto-not-to-be-trusted-7000024246/
 
-* Softwares liberados com falha, e correção não pode ser aplicada até NSA permitir
-
-* Imagem Apple
+* Apple patenteia trecho de código que permite bloquear dispositivos sem fio em uma determinada área (Imagem Apple)
 
 * Petrobrás também foi alvo de espionagem - http://elpais.com/elpais/2013/09/11/inenglish/1378912786_674537.html
+
+* Linus Torvalds consultado sobre inserir "cavalo de tróia" no Linux http://www.dystopiaearth.com/?p=2775
+
 
 * Caso da conversa de facebook monitorada na ocupação da assembléia no Rio
 
@@ -243,6 +243,7 @@ Edward Snowden
 **Situação atual de Snowden**
 
 * Ficou 39 dias preso no aeroporto da Rússia (pois seu passaporte havia sido cancelado)
+* Imagem (filmeterminal)
 * Conseguiu axilo na Rússia (de 1 ano, e ao expirar por mais 3)
 * Se voltar aos Estados Unidos será preso ao pisar no país
 
@@ -259,7 +260,7 @@ Você
 
 1. Use Software Livre
 
-2. Use Criptografia
+2. Use/Entenda Criptografia
 
 3. Use ferramentas que respeitam sua privacidade
 
@@ -279,10 +280,10 @@ Você
 * Traduzindo materiais
 * Auxiliando usuários
 * Gerando material gráfico
-* Programando
+* Programando/Corrigindo falhas/Auditando código
 
 
-**Alguns projetos interessantes**
+**Alguns projetos interessantes, ou, não desanime o mundo ainda tem jeito ;)**
 
 
 * Transparência Hacker
@@ -300,6 +301,7 @@ Você
 * Artigo The Cathedral and the Bazaar
 * Documentário TPB AFK
 * Livro Cypherpunks (Julian Assange)
+* Vídeos Everything is Remix - http://everythingisaremix.info/
 
 **Links de referência**
 
